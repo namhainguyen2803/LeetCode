@@ -1,0 +1,3 @@
+/Users/nguyennamhai/JetBrains_Project/CLion/151_ReverseWordsInAString/cmake-build-debug/CMakeFiles/151_ReverseWordsInAString.dir
+/Users/nguyennamhai/JetBrains_Project/CLion/151_ReverseWordsInAString/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nguyennamhai/JetBrains_Project/CLion/151_ReverseWordsInAString/cmake-build-debug/CMakeFiles/rebuild_cache.dir
