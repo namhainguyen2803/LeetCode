@@ -1,0 +1,3 @@
+/Users/nguyennamhai/JetBrains_Project/CLion/46_Permutations/cmake-build-debug/CMakeFiles/46_Permutations.dir
+/Users/nguyennamhai/JetBrains_Project/CLion/46_Permutations/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nguyennamhai/JetBrains_Project/CLion/46_Permutations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
